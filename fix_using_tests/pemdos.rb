@@ -7,5 +7,6 @@ def snake_it_up(string)
       string = "s" + string
       n += 1 
     end
+  end
   string
 end
